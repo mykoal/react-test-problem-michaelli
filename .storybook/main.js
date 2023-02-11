@@ -1,7 +1,10 @@
+#added "./src/App.stories.js"
+
 module.exports = {
   "stories": [
     "../src/*.stories.mdx",
     "../src/*.stories.@(js|jsx|ts|tsx)"
+    "./src/App.stories.js"
   ],
   "addons": [
     "@storybook/addon-links",
