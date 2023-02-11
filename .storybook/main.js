@@ -1,4 +1,4 @@
-#added "./src/App.stories.js"
+// Added "./src/App.stories.js"
 
 module.exports = {
   "stories": [
